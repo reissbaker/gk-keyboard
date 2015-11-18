@@ -1,0 +1,23 @@
+{
+  "name": "gk-keyboard",
+  "version": "0.0.1",
+  "description": "Keyboard system for gamekernel",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/tsc"
+  },
+  "keywords": [
+    "keyboard",
+    "gamekernel"
+  ],
+  "author": "Matt Baker",
+  "license": "ISC",
+  "peerDependencies": {
+    "gamekernel": "0.0.12"
+  },
+  "devDependencies": {
+    "typescript": "^1.6.2"
+  },
+  "typings": "build/index.d.ts"
+}
