@@ -1,6 +1,6 @@
 {
   "name": "gk-keyboard",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Keyboard system for gamekernel",
   "main": "build/index.js",
   "scripts": {
