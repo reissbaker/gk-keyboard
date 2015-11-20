@@ -14,7 +14,7 @@
   "author": "Matt Baker",
   "license": "ISC",
   "peerDependencies": {
-    "gamekernel": "0.0.12"
+    "gamekernel": "^0.0.12"
   },
   "devDependencies": {
     "typescript": "^1.6.2"
